@@ -24,7 +24,7 @@ Below is a detailed overview of Open Pool—how it works, who it benefits, and h
 
 ## Introduction
 
-Livepeer is a decentralized video transcoding and streaming platform that leverages a network of **up to 100 active Orchestrators** at any given time. Each Orchestrator stakes or receives staked **LPT (Livepeer Token)**, processes transcoding requests, and earns rewards plus fees.
+Livepeer is a decentralized video transcoding, AI inference,  and streaming platform that leverages a network of **up to 100 active Orchestrators** at any given time. Each Orchestrator stakes or receives staked **LPT (Livepeer Token)**, processes transcoding/AI requests, and earns rewards plus fees.
 
 **Open Pool** was created to solve a critical need: **scaling**. Since there’s a cap of 100 Orchestrators, each one must be able to handle increasingly large volumes of transcoding and AI inference work. This is where Open Pool steps in:
 
