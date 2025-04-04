@@ -39,7 +39,7 @@ Livepeer is a decentralized video transcoding, AI inference,  and streaming plat
 1. **Scalability**: Livepeer is poised for massive growth. By pooling GPUs, one Orchestrator can accommodate 10x or 100x more compute than they could on their own.  
 2. **Decentralization**: More independent workers = less reliance on a few “super operators,” making Livepeer more resilient to failures or attacks.  
 3. **Earn Rewards & Fees**:  
-   - **Workers** earn a share of transcoding fees for their GPU power.  
+   - **Workers** earn a share of transcoding/AI fees for their GPU power.  
    - **Orchestrators** can expand their capacity (and revenue) without owning every GPU.  
    - **Delegators** can stake their LPT on Orchestrators contributing to a stronger, more scalable network.  
 4. **Simplified Management**: Open Pool provides out-of-the-box solutions for:  
